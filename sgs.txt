@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 One piece is realllllllllll!!!!!!!
+=======
+One Piece is Reallllllll
+>>>>>>> f71b3c6 (Committed-successfully)
